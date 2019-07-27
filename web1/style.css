@@ -43,3 +43,8 @@ h1 {
         border-right: none;
     }
 }
+
+#night_day {
+    display: block;
+    float: right;
+}
